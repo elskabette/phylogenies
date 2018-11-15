@@ -1,0 +1,13 @@
+#NEXUS[written Thu Nov 15 16:40:33 EST 2018 by Mesquite  version 3.2 (build 801) at problematicus/10.3.144.7]
+BEGIN TREES;
+[! Trees from source: 'Current Tree (Tree(s) used from Tree. Last tree used: Default Symmetrical Tree+  [tree: (1,(2,(3,((4,5),6))));] )']
+	TRANSLATE
+		1	Sarcopterygii,
+		2	Polypteriformes,
+		3	Acipenseriformes,
+		4	Lepisosteiformes,
+		5	Amiiformes,
+		6	Teleostei;
+	TREE 'Default Symmetrical Tree+' = (1,(2,(3,((4,5),6))));
+END;
+

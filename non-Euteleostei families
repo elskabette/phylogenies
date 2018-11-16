@@ -1,0 +1,22 @@
+#NEXUS[written Thu Nov 15 18:28:20 EST 2018 by Mesquite  version 3.51 (build 898) at MacBook-Pro-94.local/10.3.138.76]
+BEGIN TREES;
+[! Trees from source: 'Current Tree (Tree(s) used from Trees. Last tree used: actinops_non-euteleostei  [tree: (1,(2,(3,((5,4),((6,7),(8,((9,(10,(11,(12,(13,14))))),15)))))))[% ] [% ] [%  setBetweenBits = selected ];] )']
+	TRANSLATE
+		1	Sarcopterygii,
+		2	Polypteriformes,
+		3	Acipenseriformes,
+		4	Lepisosteiformes,
+		5	Amiiformes,
+		6	Elopiformes,
+		7	Anguillaformes,
+		8	Osteoglossiformes,
+		9	Clupeiformes,
+		10	Gonorhynchiformes,
+		11	Siluriformes,
+		12	Cypriniformes,
+		13	Characiformes,
+		14	Gymnotiformes,
+		15	Euteleostei;
+	TREE 'actinops_non-euteleostei' = (1,(2,(3,((5,4),((6,7),(8,((9,(10,(11,(12,(13,14))))),15)))))))[% ] [% ] [%  setBetweenBits = selected ];
+END;
+
